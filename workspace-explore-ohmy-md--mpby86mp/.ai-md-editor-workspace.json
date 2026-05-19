@@ -1,0 +1,38 @@
+{
+  "id": "mpby86mp",
+  "name": "Explore ohmy.md",
+  "activeFileId": "mpby86mq",
+  "children": [
+    {
+      "id": "mpby86mq",
+      "kind": "file",
+      "name": "README.md",
+      "mimeType": "text/markdown"
+    },
+    {
+      "id": "doc-storage-options",
+      "kind": "file",
+      "name": "Saving on disk and in browser.md",
+      "mimeType": "text/markdown"
+    },
+    {
+      "id": "doc-markdown-syntax",
+      "kind": "file",
+      "name": "Markdown syntax.md",
+      "mimeType": "text/markdown"
+    },
+    {
+      "id": "doc-slash-commands",
+      "kind": "file",
+      "name": "Slash commands.md",
+      "mimeType": "text/markdown"
+    },
+    {
+      "id": "doc-ai-agent-skills",
+      "kind": "file",
+      "name": "AI agent skills.md",
+      "mimeType": "text/markdown"
+    }
+  ],
+  "updatedAt": 1779156850268
+}
