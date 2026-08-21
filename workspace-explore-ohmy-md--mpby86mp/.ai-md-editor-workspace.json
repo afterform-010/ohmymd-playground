@@ -10,29 +10,34 @@
       "mimeType": "text/markdown"
     },
     {
-      "id": "doc-storage-options",
-      "kind": "file",
-      "name": "Saving on disk and in browser.md",
-      "mimeType": "text/markdown"
-    },
-    {
-      "id": "doc-markdown-syntax",
-      "kind": "file",
-      "name": "Markdown syntax.md",
-      "mimeType": "text/markdown"
-    },
-    {
-      "id": "doc-slash-commands",
-      "kind": "file",
-      "name": "Slash commands.md",
-      "mimeType": "text/markdown"
-    },
-    {
-      "id": "doc-ai-agent-skills",
-      "kind": "file",
-      "name": "AI agent skills.md",
-      "mimeType": "text/markdown"
+      "id": "tourimagefolder",
+      "kind": "folder",
+      "name": "image",
+      "expanded": true,
+      "children": [
+        {
+          "id": "tourimagesetup",
+          "kind": "file",
+          "name": "workspace-setup.png",
+          "encoding": "base64",
+          "mimeType": "image/png"
+        },
+        {
+          "id": "tourimageoverview",
+          "kind": "file",
+          "name": "workspace-overview.png",
+          "encoding": "base64",
+          "mimeType": "image/png"
+        },
+        {
+          "id": "tourimagecontext",
+          "kind": "file",
+          "name": "ai-workspace-context.png",
+          "encoding": "base64",
+          "mimeType": "image/png"
+        }
+      ]
     }
   ],
-  "updatedAt": 1779156850268
+  "updatedAt": 1787347374304
 }
